@@ -1,0 +1,14 @@
+venv/
+env/
+
+*.pyc
+*.pyo
+__pycache__/
+
+.idea/
+.vscode/
+.json/
+
+*.env
+*.lock
+pip-log.txt
